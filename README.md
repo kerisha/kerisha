@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kerisha</h1>
-<h3 align="center">A passionate full stack developer from the Caribbean.</h3>
+<h3 align="center">Always learning and growing! 🌺</h3>
 
 <p align="left"> <a href="https://twitter.com/rishareesh" target="blank"><img src="https://img.shields.io/twitter/follow/rishareesh?logo=twitter&style=for-the-badge" alt="rishareesh" /></a> </p>
 
